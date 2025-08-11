@@ -32,7 +32,7 @@ This repo is part of my personal journey to master C++ during my studies and pra
 
 ## 🎓 About This Repository  
 
-This repo is part of my **personal C++ training** to practice and master key language concepts during my academic and self-learning projects.  
+This repo is part of my **personal C++ training** to practice and master key language basics during my academic and self-learning projects.  
 
 
 ---
