@@ -2,7 +2,7 @@
 
 Welcome to my **C++ training repository**, a collection of practical example programs illustrating core C++ language features and programming concepts.  
 
-This repo is part of my personal journey to master C++ during my studies and practice sessions.  
+This repo is part of my personal journey to handle basics in C++ during my studies and practice sessions.  
 
 ---
 
